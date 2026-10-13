@@ -25,11 +25,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -63,7 +67,7 @@
               "RelativeDocumentMoniker": "..\\..\\src\\tbitfield.cpp",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\mp2-2026-lab1-set\\src\\tbitfield.cpp",
               "RelativeToolTip": "..\\..\\src\\tbitfield.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAANAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAHQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-05T11:28:33.976Z",
               "EditorCaption": ""
